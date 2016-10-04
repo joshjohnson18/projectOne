@@ -1,0 +1,18 @@
+h1{
+  color: #254106;
+  font-family: helvetica;
+  font-size: 50px;
+}
+p{
+  color: white;
+  background-color: #239bf0;
+}
+img{
+  width: 300px;
+  border-style: solid;
+  border-color: #2300a1;
+}
+h2{
+  font-family: helvetica;
+  color: #254106;
+}
